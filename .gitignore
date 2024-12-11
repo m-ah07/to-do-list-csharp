@@ -1,0 +1,7 @@
+bin/
+obj/
+tasks.json
+*.exe
+*.user
+*.temp
+*.log
