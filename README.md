@@ -51,3 +51,6 @@ This project is designed to help beginners learn the basics of C# programming, i
 - Add persistence with `tasks.json` to save tasks between sessions.
 - Implement priority levels for tasks.
 - Create a GUI version of the application.
+
+## Contributing
+Feel free to fork this repository and submit pull requests to enhance functionality or add features.
