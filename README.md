@@ -31,7 +31,7 @@ This project is designed to help beginners learn the basics of C# programming, i
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/marwan-ahmed-23/to-do-list-csharp.git
+    git clone https://github.com/m-ah07/to-do-list-csharp.git
     ```
 
 2. Navigate to the project directory:
